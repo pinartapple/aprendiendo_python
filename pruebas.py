@@ -13,10 +13,10 @@ familiar_pedro = {
     "sexo": "hombre"
 }
 
-lista_familiares = [familiar_ana, familiar_pedro, familiar_paca]
-
 contador_hombres = 0
-contador_mujeres = 0
+contador_mujeres = 10
+
+# cosas nuevas
 
 # -> familiar
 for familiar in lista_familiares:
